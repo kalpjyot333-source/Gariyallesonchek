@@ -1,0 +1,6 @@
+{
+  "name": "લેસન ટ્રેકિંગ પોર્ટલ - ગરીયાલ પ્રાથમિક શાળા",
+  "description": "૭ વિષયો (ગણિત, વિજ્ઞાન, ગુજરાતી, હિન્દી, અંગ્રેજી, સામાજિક વિજ્ઞાન, સંસ્કૃત) માટે લેસન ચેકિંગ અને પાઠ વધ-ઘટ વ્યવસ્થાપન સિસ્ટમ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
